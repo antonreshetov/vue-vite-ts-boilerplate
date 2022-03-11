@@ -24,7 +24,7 @@ export default defineConfig({
           customCollections: ['svg']
         })
       ],
-      dirs: ['src/components']
+      dirs: ['src/layouts', 'src/components']
     }),
     Icons({
       customCollections: {
